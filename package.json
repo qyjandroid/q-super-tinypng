@@ -1,0 +1,18 @@
+{
+    "name": "q-super-tinypng",
+    "version": "1.0.8",
+    "description": "Tinypng 压缩图片",
+    "main": "index.js",
+    "bin": {
+        "tinypng": "./index.js"
+    },
+    "scripts": {
+        "tinypng": "node ./index.js"
+    },
+    "keywords": [
+        "Tinypng",
+        "压缩图片"
+    ],
+    "author": "quanyj",
+    "license": "ISC"
+}
